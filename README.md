@@ -45,7 +45,7 @@ This project follows a basic **Retrieval-Augmented Generation (RAG)** pipeline:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-research-assistant.git
+git clone https://github.com/nawdeep001/ai-research-assistant.git
 cd ai-research-assistant
 ````
 
